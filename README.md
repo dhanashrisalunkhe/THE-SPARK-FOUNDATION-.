@@ -1,4 +1,4 @@
-# THE-SPARK-FOUNDATION-.
+# THE-SPARK-FOUNDATION-GRIP
 Data science and business analyticsData Science And Business Analytics tasks 
 #gripfebruary22
 Task 1- Prediction Using Supervised ML
